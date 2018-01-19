@@ -1,0 +1,42 @@
+PS D:\dev> create-react-app react-tutorial
+
+Creating a new React app in D:\dev\react-tutorial.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts...
+
+
+> fsevents@1.1.2 install D:\dev\react-tutorial\node_modules\fsevents
+> node install
+
+
+> uglifyjs-webpack-plugin@0.4.6 postinstall D:\dev\react-tutorial\node_modules\uglifyjs-webpack-plugin
+> node lib/post_install.js
+
++ react@16.2.0
++ react-dom@16.2.0
++ react-scripts@1.1.0
+added 1277 packages in 137.237s
+
+Success! Created react-tutorial at D:\dev\react-tutorial
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd react-tutorial
+  npm start
+
+Happy hacking!
